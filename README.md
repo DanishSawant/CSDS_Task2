@@ -1,9 +1,9 @@
 # CSDS Task 2: Methodological Deliberation and Fairness Audit
 
-**Student Name:** Danish Sawant[cite: 1]  
-**Student ID:** s4205801[cite: 1]  
-**Institution:** RMIT University[cite: 1]  
-**Repository:** [https://github.com/DanishSawant/CSDS_Task2.git](https://github.com/DanishSawant/CSDS_Task2.git)[cite: 1, 2, 3]
+**Student Name:** Danish Sawant
+**Student ID:** s4205801
+**Institution:** RMIT University
+**Repository:** [https://github.com/DanishSawant/CSDS_Task2.git](https://github.com/DanishSawant/CSDS_Task2.git)
 
 ---
 
